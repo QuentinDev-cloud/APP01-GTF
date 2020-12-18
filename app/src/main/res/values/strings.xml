@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GTF</string>
+    <string name="a_1">ACTIVITY ONE</string>
+    <string name="a_2">ACTIVITY TWO</string>
+    <string name="gt_1">Go To One</string>
+    <string name="gt_2">Go To Two</string>
 </resources>
