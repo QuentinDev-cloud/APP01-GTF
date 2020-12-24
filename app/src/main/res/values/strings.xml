@@ -4,4 +4,7 @@
     <string name="a_2">ACTIVITY TWO</string>
     <string name="gt_1">Go To One</string>
     <string name="gt_2">Go To Two</string>
+    <string name="day">DAY</string>
+    <string name="back">BACK</string>
+
 </resources>
