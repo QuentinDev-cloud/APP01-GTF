@@ -6,5 +6,8 @@
     <string name="gt_2">Go To Two</string>
     <string name="day">DAY</string>
     <string name="back">BACK</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+
 
 </resources>
